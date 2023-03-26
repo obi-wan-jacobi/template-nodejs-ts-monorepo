@@ -1,5 +1,6 @@
 {
   "name": "template-nodejs-ts-monorepo",
+  "workspaces": [],
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -24,6 +25,6 @@
     "tsconfig-paths": "^4.1.1",
     "typescript": "^5.0.2"
   },
-  "author": "",
+  "author": "obi-wan-jacobi",
   "license": ""
 }
