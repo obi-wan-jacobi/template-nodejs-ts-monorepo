@@ -13,8 +13,7 @@
     "moduleResolution": "node",
     "noUnusedLocals": false,
     "types": ["node", "jest"],
-    "paths": {
-    }
+    "paths": {}
   },
   "ts-node": {
     "esm": true
